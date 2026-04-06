@@ -1,3 +1,3 @@
-[submodule "JKClient"]
+﻿[submodule "JKClient"]
 	path = JKClient
-	url = git@github.com:TomArrow/JKClient.git
+	url = https://github.com/J-Jkb/mirror-TomArrow-JKClient.git
