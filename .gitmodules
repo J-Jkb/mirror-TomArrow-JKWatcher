@@ -1,15 +1,15 @@
 [submodule "JKClient"]
 	path = JKClient
-	url = git@github.com:TomArrow/JKClient.git
+	url = https://github.com/J-Jkb/mirror-TomArrow-JKClient.git
 [submodule "ext/WPF-Clock-Based-Date-Time-Picker"]
 	path = ext/WPF-Clock-Based-Date-Time-Picker
-	url = git@github.com:TomArrow/WPF-Clock-Based-Date-Time-Picker.git
+	url = https://github.com/J-Jkb/mirror-TomArrow-WPF-Clock-Based-Date-Time-Picker.git
 [submodule "glicko2-csharp"]
 	path = glicko2-csharp
-	url = git@github.com:TomArrow/glicko2-csharp.git
+	url = https://github.com/J-Jkb/mirror-TomArrow-glicko2-csharp.git
 [submodule "markov"]
 	path = markov
-	url = git@github.com:TomArrow/markov.git
+	url = https://github.com/J-Jkb/mirror-TomArrow-markov.git
 [submodule "ext/Q3MinimapGenerator"]
 	path = ext/Q3MinimapGenerator
-	url = git@github.com:TomArrow/Q3MinimapGenerator.git
+	url = https://github.com/J-Jkb/mirror-TomArrow-Q3MinimapGenerator.git
